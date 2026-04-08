@@ -24,7 +24,7 @@ Sistem Kasir (Point of Sales) modern yang dirancang khusus untuk manajemen kanti
 🚀 Instalasi Lokal
 
 1. Clone Repository
-   git clone [https://github.com/username-kamu/pos-kantin-felix.git](https://github.com/username-kamu/pos-kantin-felix.git)
+   git clone [[https://github.com/username-kamu/pos-kantin-felix.git](https://github.com/username-kamu/pos-kantin-felix.git)](https://github.com/J-CNQU/Laravel-Cafe-POS-System.git)
    cd pos-kantin-felix
 
 2. Instal Dependencies
@@ -69,7 +69,7 @@ Buka terminal di dalam folder proyek kamu dan jalankan perintah berikut secara b
 
 5. Hubungkan dan Push
    (Ganti URL di bawah dengan URL dari repositori kamu)
-   git remote add origin [https://github.com/username-kamu/pos-kantin-felix.git](https://github.com/username-kamu/pos-kantin-felix.git)
+   git remote add origin [[https://github.com/username-kamu/pos-kantin-felix.git](https://github.com/username-kamu/pos-kantin-felix.git)](https://github.com/J-CNQU/Laravel-Cafe-POS-System.git)
    git branch -M main
    git push -u origin main
 ```
